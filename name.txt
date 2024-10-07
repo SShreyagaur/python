@@ -1,0 +1,1 @@
+& C:/Users/shrey/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/Users/shrey/OneDrive/Desktop/nature/python/file I/O/f7.py"
